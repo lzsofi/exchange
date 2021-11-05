@@ -1,0 +1,2 @@
+INSERT INTO currency (id, currency_from, currency_to, buying_rate, selling_rate) VALUES ('1', 'USD', 'EUR', '0.87', '0.86');
+INSERT INTO currency (id, currency_from, currency_to, buying_rate, selling_rate) VALUES ('2', 'USD', 'HUF', '312', '311');
